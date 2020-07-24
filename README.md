@@ -1,4 +1,4 @@
-#Random Quote Machine
+# Random Quote Machine
 
 This random quote machine project was created for FreeCodeCamp's Front End Library Certification
 
