@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/howagain/fcc-quote-machine/precache-manifest.ae6674e7f10fe57ab6aca2473f7ff791.js"
+  "/howagain/fcc-quote-machine/precache-manifest.70b4764198275b95f5a9a3c5639ed1be.js"
 );
 
 self.addEventListener('message', (event) => {
