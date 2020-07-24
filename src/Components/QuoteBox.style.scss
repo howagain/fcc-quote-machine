@@ -1,0 +1,40 @@
+.quote-box {
+  display: flex;
+  flex-direction: column;
+  max-width: 80rem;
+  font-size: 2rem;
+  padding: 3rem;
+  justify-content: space-between;
+  border-radius: .5rem;
+  .quote-text {
+    font-size: 4rem;
+    .quote {
+      font-weight: 600;
+    }
+    .quote-mark {
+      font-size: 3rem;
+      margin-right: 0.5rem;
+    }
+  }
+  .quote-author {
+    text-align: end;
+    margin-bottom: 1.5rem;
+  }
+  .buttons{
+    display: flex;
+    justify-content: space-between;
+    a {
+      font-size: 3rem;
+      border: none;
+    }
+    button{
+      font-size: 2rem;
+      border: none;
+    }
+  }
+}
+
+// this is a copy of what is in app.scss to get the transition to sync up, should probably use a variable for this
+.transition {
+  transition: all 0.5s ease-in-out;
+}

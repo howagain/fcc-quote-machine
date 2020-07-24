@@ -1,0 +1,23 @@
+@import "~bootstrap/scss/bootstrap";
+
+$theme-colors: (
+    "info": tomato,
+    "danger": teal
+);
+
+.App {
+  color: white;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  transition: all .5s ease-in-out;
+  .loading-spinner{
+    width: 20rem;
+    height: 20rem;
+  }
+  .loading-text{
+    color: white;
+  }
+}
+
+
