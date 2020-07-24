@@ -4,7 +4,7 @@ This random quote machine project was created for FreeCodeCamp's Front End Libra
 
 It passes 12 out of 12 tests. It took me 2:56:29.44 to complete it.
 
-DEMO: https://howagain.github.io/fcc-quote-machine/
+DEMO: (https://howagain.github.io/fcc-quote-machine/)
 
 ### Link
 See [freecodecamp.com](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine) for more
