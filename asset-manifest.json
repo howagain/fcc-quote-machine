@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/howagain/fcc-quote-machine/static/css/main.aaa5f7d0.chunk.css",
-    "main.js": "/howagain/fcc-quote-machine/static/js/main.a57f9799.chunk.js",
-    "main.js.map": "/howagain/fcc-quote-machine/static/js/main.a57f9799.chunk.js.map",
-    "runtime-main.js": "/howagain/fcc-quote-machine/static/js/runtime-main.fb70d744.js",
-    "runtime-main.js.map": "/howagain/fcc-quote-machine/static/js/runtime-main.fb70d744.js.map",
-    "static/js/2.6b6d5c23.chunk.js": "/howagain/fcc-quote-machine/static/js/2.6b6d5c23.chunk.js",
-    "static/js/2.6b6d5c23.chunk.js.map": "/howagain/fcc-quote-machine/static/js/2.6b6d5c23.chunk.js.map",
-    "index.html": "/howagain/fcc-quote-machine/index.html",
-    "precache-manifest.70b4764198275b95f5a9a3c5639ed1be.js": "/howagain/fcc-quote-machine/precache-manifest.70b4764198275b95f5a9a3c5639ed1be.js",
-    "service-worker.js": "/howagain/fcc-quote-machine/service-worker.js",
-    "static/css/main.aaa5f7d0.chunk.css.map": "/howagain/fcc-quote-machine/static/css/main.aaa5f7d0.chunk.css.map",
-    "static/js/2.6b6d5c23.chunk.js.LICENSE.txt": "/howagain/fcc-quote-machine/static/js/2.6b6d5c23.chunk.js.LICENSE.txt"
+    "main.css": "/fcc-quote-machine/static/css/main.aaa5f7d0.chunk.css",
+    "main.js": "/fcc-quote-machine/static/js/main.7e5d104d.chunk.js",
+    "main.js.map": "/fcc-quote-machine/static/js/main.7e5d104d.chunk.js.map",
+    "runtime-main.js": "/fcc-quote-machine/static/js/runtime-main.b2c66f56.js",
+    "runtime-main.js.map": "/fcc-quote-machine/static/js/runtime-main.b2c66f56.js.map",
+    "static/js/2.6b6d5c23.chunk.js": "/fcc-quote-machine/static/js/2.6b6d5c23.chunk.js",
+    "static/js/2.6b6d5c23.chunk.js.map": "/fcc-quote-machine/static/js/2.6b6d5c23.chunk.js.map",
+    "index.html": "/fcc-quote-machine/index.html",
+    "precache-manifest.d9a1f98599daf3831ecea167a8231914.js": "/fcc-quote-machine/precache-manifest.d9a1f98599daf3831ecea167a8231914.js",
+    "service-worker.js": "/fcc-quote-machine/service-worker.js",
+    "static/css/main.aaa5f7d0.chunk.css.map": "/fcc-quote-machine/static/css/main.aaa5f7d0.chunk.css.map",
+    "static/js/2.6b6d5c23.chunk.js.LICENSE.txt": "/fcc-quote-machine/static/js/2.6b6d5c23.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb70d744.js",
+    "static/js/runtime-main.b2c66f56.js",
     "static/js/2.6b6d5c23.chunk.js",
     "static/css/main.aaa5f7d0.chunk.css",
-    "static/js/main.a57f9799.chunk.js"
+    "static/js/main.7e5d104d.chunk.js"
   ]
 }
